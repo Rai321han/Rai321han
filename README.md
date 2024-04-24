@@ -8,7 +8,7 @@
 Hey there! I'm a **_Frontend developer_** and I love building web applications that are easy to use and can grow as needed. Currently, I'm pursuing a Bachelor of Science degree in Information and Communication Engineering at Noakhali Science and Technology University, and I'm set to graduate in mid-2024.
 
 <div>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" "style:display:inline-block" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" "style:display:inline-block"/>
   <h2> GITHUB STATE </h2>
 </div>
 <div style:"border:2px solid black;width:100%"></div>
