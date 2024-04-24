@@ -7,8 +7,7 @@
 />
 Hey there! I'm a **_Frontend developer_** and I love building web applications that are easy to use and can grow as needed. Currently, I'm pursuing a Bachelor of Science degree in Information and Communication Engineering at Noakhali Science and Technology University, and I'm set to graduate in mid-2024.
 <br></br>
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" style:"display:inline-block"/> GitHub State </h2>
-<div style:"border: 5px solid red; width:100%"></div>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25"/><strong> GitHub State </strong></h2>
 
 ![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rai321han&show_icons=true&theme=radical)
 
