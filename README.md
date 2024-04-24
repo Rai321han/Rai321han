@@ -1,4 +1,8 @@
 # **R A I H A N &ensp; U D D I N**
+
+![Static Badge](https://img.shields.io/badge/FACEBOOK?style=flat-square)
+
+
 <img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
   alt="Cat with Tears of Joy"
