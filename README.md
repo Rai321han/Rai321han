@@ -7,7 +7,8 @@
   width="25"
   height="25"
 />
-Hey there! I'm a **_Frontend developer_** and I love to build web applications that are easy to use and can grow as needed. Currently, I'm pursuing a Bachelor of Science degree in Information and Communication Engineering at Noakhali Science and Technology University, and I'm set to graduate in mid-2024.
+Hey there!
+I'm into making websites that are super user-friendly and can scale up smoothly. Right now, I'm wrapping up my Bachelor's in Information and Communication Engineering at Noakhali Science and Technology University, set to graduate by mid-2024."
  
 <p align="left">
   <a href="https://www.linkedin.com/in/raihan-uddin-6681411b2/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraihan-uddin-6681411b2%2F"></a>
