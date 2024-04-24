@@ -9,7 +9,7 @@ Hey there! I'm a **_Frontend developer_** and I love building web applications t
 
 <div>
   
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" style:"display:inline-block"/> GITHUB STATE </h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" style:"display:inline-block"/> GitHub State </h2>
 </div>
 
 ![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rai321han&show_icons=true&theme=radical)
