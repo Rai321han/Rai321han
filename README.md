@@ -1,6 +1,7 @@
 # **R A I H A N &ensp; U D D I N**
 
-![Static Badge](https://img.shields.io/badge/FACEBOOK?style=flat-square)
+![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraihan-uddin-6681411b2%2F)
+
 
 
 <img
