@@ -15,8 +15,6 @@ Hey there! I'm a **_Frontend developer_** and I love building web applications t
 </a> <a href="https://leetcode.com/Raihan_321/">
 <img src="https://img.shields.io/badge/LeetCode-%23262729?style=for-the-badge&logo=leetcode&logoColor=%23FFA116&link=https%3A%2F%2Fleetcode.com%2FRaihan_321%2F"></a>
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraihan-uddin-6681411b2%2F)
-(https://leetcode.com/Raihan_321/)
 
 <br></br>
 
