@@ -8,9 +8,11 @@
   height="25"
 />
 Hey there! I'm a **_Frontend developer_** and I love building web applications that are easy to use and can grow as needed. Currently, I'm pursuing a Bachelor of Science degree in Information and Communication Engineering at Noakhali Science and Technology University, and I'm set to graduate in mid-2024.
-<object>
-![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraihan-uddin-6681411b2%2F) ![Static Badge](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https%3A%2F%2Fleetcode.com%2FRaihan_321%2F)
+
+<object data:"![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraihan-uddin-6681411b2%2F)">
+
 </object>
+![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraihan-uddin-6681411b2%2F) ![Static Badge](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https%3A%2F%2Fleetcode.com%2FRaihan_321%2F)
 
 <br></br>
 
