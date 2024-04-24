@@ -13,6 +13,7 @@ Hey there! I'm a **_Frontend developer_** and I love building web applications t
 
 <br></br>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" />Languages</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" /> Languages</h2>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai321han&layout=compact)
 
