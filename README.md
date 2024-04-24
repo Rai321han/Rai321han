@@ -1,13 +1,13 @@
 ## **R A I H A N &nbsp; U D D I N**
 
-
+<!--
 <img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
+   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
   alt="Cat with Tears of Joy"
   width="25"
   height="25"
-/>
-Hi there!
+/> -->
+<h2> About Me </h2>
 <p>I'm into making websites that are user-friendly and can scale up smoothly. Right now, I'm wrapping up my Bachelor's in Information and Communication Engineering at Noakhali Science and Technology University, set to graduate by mid-2024.</p>
  
 <p align="left">
