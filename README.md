@@ -8,7 +8,7 @@
   height="25"
 /> -->
 <h2> About Me </h2>
-<p>As a JavaScript Developer, I love solving problems and making websites that are user-friendly and can scale up smoothly. Right now, I'm wrapping up my Bachelor's in Information and Communication Engineering at Noakhali Science and Technology University, set to graduate by mid-2024.</p>
+<p>I love solving problems and making websites that are user-friendly and can scale up smoothly. Right now, I'm wrapping up my Bachelor's in Information and Communication Engineering at Noakhali Science and Technology University, set to graduate by mid-2024.</p>
  
 <p align="left">
   <a href="https://www.linkedin.com/in/raihan-uddin-6681411b2/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraihan-uddin-6681411b2%2F"></a>
