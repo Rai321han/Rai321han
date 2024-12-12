@@ -8,7 +8,7 @@
   height="25"
 /> -->
 <h2> About Me </h2>
-<p>I love solving problems and making websites that are user-friendly and can scale up smoothly.</p>
+<p>Always learning, occasionally overthinking, but never giving up until the semicolons are happy and the bugs are history.</p>
  
 <p align="left">
   <a href="https://www.linkedin.com/in/raihan-uddin-6681411b2/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraihan-uddin-6681411b2%2F"></a>
