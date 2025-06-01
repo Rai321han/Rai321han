@@ -25,9 +25,12 @@
 [![HTML](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)&nbsp;
 [![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)&nbsp;
 [![REACT](https://skillicons.dev/icons?i=react)](https://react.dev/)&nbsp;
+[![NEXTJS](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)&nbsp;
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)&nbsp;
 [![REDUX](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)&nbsp;
 [![TAILWIND](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)&nbsp;
 [![TYPESCRIPT](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)&nbsp;
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)&nbsp;
 [![FIGMA](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)&nbsp;
 [![AI](https://skillicons.dev/icons?i=ai)](https://www.adobe.com/products/illustrator.html)&nbsp;
 
